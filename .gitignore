@@ -128,5 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-jogos/Scripts/
-oo/Scripts/
+*/Scripts/
